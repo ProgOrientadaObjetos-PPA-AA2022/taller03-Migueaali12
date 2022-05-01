@@ -48,6 +48,7 @@ public class Institucion {
     }
 
     //obtener
+    
     public String obtenerNombre() {
         return nombre;
     }
